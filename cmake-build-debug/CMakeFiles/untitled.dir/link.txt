@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/console.cpp.o CMakeFiles/untitled.dir/Service.cpp.o CMakeFiles/untitled.dir/Repository.cpp.o CMakeFiles/untitled.dir/Car.cpp.o -o untitled 
